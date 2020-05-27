@@ -1,5 +1,16 @@
 <h1>Sistemas de Recuperação de Informação</h1>
-<p>Curso de Sistema de Recuperação de Informação - Mestrado EMAp/FGV 2019</p>
+
+<h3>Arquivos do Repositório</h3>
+
+<ul>
+    <li><b>listas: </b>pasta com as listas do curso.</li>
+    <li><b>Projeto Final: </b>pasta com o projeto final do curso. Esse projeto final é responsável pela aprovação do aluno no curso.</li>
+    <li><b>img: </b>pasta com as imagens para o Readme.</li>
+</ul>
+
+<h3>Objetivo do repositório</h3>
+
+<p>Curso de Sistema de Recuperação de Informação - <b>Mestrado EMAp/FGV 2019</b></p>
 
 <p>Para responder as listas e fazer o trabalho final, foi necessário a utilização de um Corpus específico escolhido pelo aluno.</p>
 
@@ -11,11 +22,11 @@
 
 <p>O gráfico das pontuações de perplexidade e coerência sobre o Corpus da Wiki podem ser visualizados abaixo:</p>
 
-<img src="grafico.png">
+<img src="img/grafico.png">
 
 <p>O mecanismo de busca conseguia retornar os trechos parecidos com a sentença objetivo dentre todos os textos do corpus e utilizava uma mpetrica de similaridade capaz de ranquear as melhores respostas. Um exemplo pode ser visto na imagem abaixo:</p>
 
-<img src="pesquisa.png">
+<img src="img/pesquisa.png">
 
 
 
